@@ -1,3 +1,3 @@
 # JavaProject
 
-All my Java Project from 2017
+Some of my Java Projects from 2017
